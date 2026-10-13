@@ -23,7 +23,7 @@ for reproducing a published simulation so that every step can be checked.
 ### In the Claude app or Cowork (web or desktop)
 
 1. Open **Customize** in the left sidebar, then the **Plugins** tab.
-2. Click **Add**, choose **Add marketplace**, and enter `s27183/fiducial-duck`.
+2. Click **Add**, choose **Add marketplace**, and enter `panalogy-lab/fiducial-duck`.
 3. Find **fiducial-duck** in the list and click **Add**.
 
 The plugin is saved to your account, so it also appears in Claude Code when you sign in with
@@ -32,7 +32,7 @@ the same account.
 ### In Claude Code (terminal)
 
 ```
-/plugin marketplace add s27183/fiducial-duck
+/plugin marketplace add panalogy-lab/fiducial-duck
 /plugin install fiducial-duck@fiducial-duck
 ```
 
@@ -41,7 +41,7 @@ Then run `/reload-plugins`, or start a new session.
 ### In Claude Science
 
 1. Open **Customize**, then **Skills**, then **Import from GitHub**.
-2. Enter `s27183/fiducial-duck` and click **Preview**. Both skills are listed.
+2. Enter `panalogy-lab/fiducial-duck` and click **Preview**. Both skills are listed.
 3. Click **Import 2 skills**.
 
 Imported skills don't update automatically; import again to pick up a new release. Claude

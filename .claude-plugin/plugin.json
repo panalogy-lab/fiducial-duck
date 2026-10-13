@@ -1,6 +1,6 @@
 {
   "name": "fiducial-duck",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "AI that does the computational heavy lifting in research, and checks its own work. Starts with verified microfluidic channel flow (scikit-fem, gmsh) and a general procedure for reproducing published simulations.",
   "author": {
     "name": "Son Tran"
@@ -18,6 +18,6 @@
     "verification",
     "wall-shear-stress"
   ],
-  "repository": "https://github.com/s27183/fiducial-duck",
-  "homepage": "https://github.com/s27183/fiducial-duck"
+  "repository": "https://github.com/panalogy-lab/fiducial-duck",
+  "homepage": "https://github.com/panalogy-lab/fiducial-duck"
 }
